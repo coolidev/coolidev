@@ -1,4 +1,4 @@
-# Software Engineer - Web / Mobile / AI / Blockchain
+# Software Engineer - Web / Mobile / AI / Game / Blockchain
 
 * Experienced & Skilled
 * Responsible & Fast pace
