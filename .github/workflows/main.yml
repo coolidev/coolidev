@@ -19,3 +19,5 @@ jobs:
         uses: dailydotdev/action-devcard@2.1.0
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
+          user: coolidev
+          commiter_message: "chore: update DevCard"
