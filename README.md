@@ -5,8 +5,9 @@
 * Easy communicate & All time ready
 * Powerful learning ability in new technology
 
-I integrate deep AI development expertise using Python with a range of skills from the web app with React, Angular, Node.js to game application development using C#, Unity, Unreal Engine. This enables me to build scalable, secure, and fault-tolerant applications an products.
-With a passion for coding, team cooperating and strong attention to detail, I strive to exceed client expectations and deliver bug-free results.
+| Summary | DevCard |
+| --- | --- |
+| I integrate deep AI development expertise using Python with a range of skills from the web app with React, Angular, Node.js to game application development using C#, Unity, Unreal Engine. This enables me to build scalable, secure, and fault-tolerant applications an products. With a passion for coding, team cooperating and strong attention to detail, I strive to exceed client expectations and deliver bug-free results. | <a href="https://app.daily.dev/coolidev"><img src="https://api.daily.dev/devcards/e9654ca8e0584099913425f1d9adf78a.png?r=smv" width="400" alt="WiOne's Dev Card"/></a> |
 
 ---
 
