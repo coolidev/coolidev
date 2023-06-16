@@ -13,3 +13,10 @@
 
 ## Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=git,,figma,,azure,aws,,html,css,,react,nextjs,svelte,threejs,d3,,xd,,cloudflare,netlify,,,js,ts,,laravel,django,rails,bootstrap,materialui,postman,,vscode,visualstudio,,php,python,ruby,graphql,,,,,,,,unity,unreal,,,cs,cpp,,,,mysql,mongodb,,solidity,,,androidstudio,,dart,kotlin,swift,,flutter,firebase,,redis,sqlite,,ipfs,)](https://skillicons.dev)
+
+## Contact me
+You can contact me anytime you want.
+
+My Gmail Address: gloproman0211@gmail.com
+
+My Skype Name: live:.cid.440522aea95aa7bc
