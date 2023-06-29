@@ -7,7 +7,7 @@
 
 | Summary | DevCard |
 | --- | --- |
-| 9 years of experience as a software developer, I integrate deep AI & Blockchain development expertise with a range of techniques and products from the web app with React, Angular, Node.js to game development using C#, Unity, Unreal Engine. With a passion for coding, team cooperating and strong attention to detail, I strive to deliver the top-result which exceed customer expectations. | <a href="https://app.daily.dev/coolidev"><img src="https://raw.githubusercontent.com/coolidev/coolidev/master/devcard.svg" width="200" alt="WiOne's Dev Card"/></a> |
+| As a software developer, I integrate deep AI & Blockchain development expertise with a range of techniques and products from the web app with React, Angular, Node.js to game development using C#, Unity, Unreal Engine. With a passion for coding, team cooperating and strong attention to detail, I strive to deliver the top-result which exceed customer expectations. | <a href="https://app.daily.dev/coolidev"><img src="https://raw.githubusercontent.com/coolidev/coolidev/master/devcard.svg" width="200" alt="WiOne's Dev Card"/></a> |
 
 ---
 
