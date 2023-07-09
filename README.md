@@ -15,7 +15,9 @@
 [![My Skills](https://skillicons.dev/icons?i=git,,figma,,azure,aws,,html,css,,react,nextjs,svelte,threejs,d3,,xd,,cloudflare,netlify,,,js,ts,,laravel,django,rails,bootstrap,materialui,postman,,vscode,visualstudio,,php,python,ruby,graphql,,,,,,,,unity,unreal,,,cs,cpp,,,,mysql,mongodb,,solidity,,,androidstudio,,dart,kotlin,swift,,flutter,firebase,,redis,sqlite,,ipfs,)](https://skillicons.dev)
 
 ## Trophies
-![My Trophies](https://github-trophies.vercel.app/?username=coolidev)
+![My Trophies](https://github-trophies.vercel.app/?username=coolidev&theme=dracula)
+
+![Widget](https://github-widgetbox.vercel.app/api/profile?username=coolidev&data=followers,repositories,stars,commits&theme=dracula)
 
 ## Contact me
 You can contact me anytime you want.
