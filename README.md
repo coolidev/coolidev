@@ -12,7 +12,7 @@
 ---
 
 ## Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=git,,figma,,azure,aws,,html,css,,react,nextjs,svelte,threejs,d3,,xd,,cloudflare,netlify,,,js,ts,,laravel,django,rails,bootstrap,materialui,postman,,vscode,visualstudio,,php,python,ruby,graphql,,,,,,,,unity,unreal,,,cs,cpp,,,,mysql,mongodb,,solidity,,,androidstudio,,dart,kotlin,swift,,flutter,firebase,,redis,sqlite,,ipfs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,,,,,,,,,,,,,,,,,js,cs,py,,,,,,,,,,,linkedin,styledcomponents,express,nodejs,react,ts,cpp,django,,,,,,,,,,,devto,svg,gatsby,threejs,bootstrap,html,dotnet,flask,ruby,php,dart,firebase,redis,graphql,linux,java,webflow,nginx,discord,vue,regex,d3,redux,css,solidity,fastapi,rails,laravel,flutter,mysql,sqlite,postgres,go,maven,jest,webpack,twitter,vite,tailwind,materialui,nextjs,sass,rust,apollo,,symfony,kotlin,mongodb,dynamodb,ipfs,bash,kafka,bots,jenkins,stackoverflow,nuxtjs,angular,babel,svelte,jquery,perl,atom,,wordpress,swift,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,git,github,gitlab,heroku,netlify,vercel,codepen,grafana,remix,postman,azure,aws,cloudflare,docker,gcp,,,,figma,xd,visualstudio,vscode,unity,unreal,androidstudio,ae,blender,cmake,ps,powershell,selenium,,,,&perline=18)](https://skillicons.dev)
 
 ## Trophies
 ![My Trophies](https://github-trophies.vercel.app/?username=coolidev&theme=dracula)
